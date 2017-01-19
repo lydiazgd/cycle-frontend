@@ -1,0 +1,8 @@
+*{
+	margin:0;
+	padding:0;
+}
+.sidebar li {
+	display: inline-block;
+	margin-right: 20%;
+}

@@ -1,0 +1,20 @@
+* {
+	margin:0;
+	padding:0;
+}
+.underpanel {
+	position: absolute;
+	right:0;
+	top:40%;
+	width:40%;
+}
+.underpanel p {
+	display: inline-block;
+	font-size: 15px;
+	color: black;
+	margin-left: 0;
+}
+.underpanel div {
+	margin-left: 0;
+	margin-top: 2%;
+}

@@ -1,0 +1,40 @@
+* {
+	margin:0;
+	padding: 0;
+}
+
+.each-comment {
+	overflow: scroll;
+	width:70%;
+    border:1px #DCDCDC solid;
+    background-color: white;
+	margin:5% 13%;
+	padding:4% 2%;
+	border-radius: 5px;
+}
+.each-comment div:nth-of-type(1){
+	width:20%;
+	height:auto;
+    word-break: break-all;
+	font-size: 10px;
+}
+.each-comment div:nth-of-type(2){
+	overflow:visible;
+	width:100%;
+	height:auto;
+	word-break: break-all;
+	font-size: 10px;
+
+}
+.each-comment div:nth-of-type(1) p{
+	font-size: 15px;
+	color:green;
+	margin-left: 0;
+}
+.each-comment div:nth-of-type(2) p{
+	font-size: 15px;
+	color:black;
+	margin-left: 0;
+
+}
+

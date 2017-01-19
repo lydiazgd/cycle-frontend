@@ -1,0 +1,32 @@
+*{
+	padding: 0;
+	margin:0;
+}
+.outline {
+	width:100%;
+	background-color: #F5F5F5;
+	height:40px;
+	border-bottom: 1px #DCDCDC solid;
+	
+}
+.outline div {
+	position:absolute;
+	width:20%;
+	right:0;
+    top:10px;
+}
+.outline p {
+	display: inline-block;
+	font-size: 10px;
+	color:black;
+	
+}
+.outline p:nth-of-type(2) {
+	border-right:1px solid;
+	padding-right: 3%;
+	height:2%;
+}
+a {
+	text-decoration: none;
+	color:black;
+}

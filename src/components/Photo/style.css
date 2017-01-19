@@ -1,0 +1,17 @@
+*{
+	padding:0;
+	margin:0;
+}
+.photo{
+	margin-left: 39.5%;
+	height:25%;
+	margin-bottom: 10%;
+	width:60%;
+	border:1px solid;
+}
+.photo img {
+	margin-top: 0;
+	margin-left: 0;
+	height:100%;
+	width:100%;
+}

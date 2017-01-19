@@ -1,0 +1,8 @@
+*{
+	margin:0;
+	padding:0;
+}
+.name span {
+	margin-left: 40%;
+	font-size: 5px;
+}

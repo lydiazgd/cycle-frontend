@@ -1,0 +1,9 @@
+* {
+	margin:0;
+	padding:0;
+}
+.publishcommodity {
+	position: absolute;
+	width:50%;
+	top:45%;
+}
